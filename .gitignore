@@ -2,3 +2,4 @@
 *.png
 *.wav
 *.pth
+__pycache__/*.pyc
