@@ -3,3 +3,4 @@
 *.wav
 *.pth
 __pycache__/*.pyc
+speaker_classifier_modules/__pycache__/*.*
